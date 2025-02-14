@@ -24,7 +24,7 @@ Ensure you have the following installed:
 1. Clone this repository:
    ```sh
    git clone [https://github.com/olakoya/dengroassessment.git]
-   cd dengro-automation
+   cd dengroassessment
    
 2. Create a virtual environment:
    python -m venv .venv
