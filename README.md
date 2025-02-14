@@ -1,12 +1,15 @@
-# Below Are Details on How To Install and Run My Dengro Selenium Automation Assessment Using Python Programming Language
+#  Dengro Selenium Automation Assessment
+
+## Below Are Details on How To Install and Run My Dengro Selenium Automation Assessment Using Python Programming Language
 
 This project automates the testing of the **DenGro** website using **Selenium WebDriver** in Chrome and Edge browsers.
 
 ## **The Features are:**
-- Opens DenGro homepage and verifies text presence
-- Clicks buttons and navigates to the pricing page
-- Switches currency on the pricing page
-- Captures screenshots for testing validation
+1. Opens DenGro "https://dengro.com/" homepage
+2. Verifies text presence
+3. Clicks buttons and navigates to the pricing page
+4. Switches currency on the pricing page
+5. Captures screenshots for testing validation
 
 ## **The Prerequisites are:**
 Ensure you have the following installed:
