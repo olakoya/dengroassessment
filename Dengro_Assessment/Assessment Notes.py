@@ -2,33 +2,35 @@
 The Exercise
 --------------
 
-Goal
+1. Goal
 
 Build an automated browser suite to test the functionality of the dengro.com website.
-Requirements
 
-Use any testing tool of your choice.
-Use any strongly typed programming language of your choice.
-Your project must check the functionality in 2 major browsers.
-Your project must test the 5 different pieces of functionality listed below
+Requirements:
+-------------
 
-Assert that a piece of text appears on a given page
-Assert clicking a button does some functionality
-Assert clicking a link navigates correctly
-Assert that the pricing page allows users to change their currency https://dengro.com/pricing and that the pricing panels reflect that
-Capture a screenshot of any page
+a. Use any testing tool of your choice.
+b. Use any strongly typed programming language of your choice.
+c. Your project must check the functionality in 2 major browsers.
+d. Your project must test the 5 different pieces of functionality listed below
 
-Guide
+i. Assert that a piece of text appears on a given page
+ii. Assert clicking a button does some functionality
+iii. Assert clicking a link navigates correctly
+iv. Assert that the pricing page allows users to change their currency https://dengro.com/pricing and that the pricing panels reflect that
+v. Capture a screenshot of any page
 
-You should focus not only on the functionality of your code but also the cleanliness.
-The code should be easy to read and follow good coding practices.
-Please spend no more than 2-3 hours on this.
+2. Guide
 
-Submission
+a. You should focus not only on the functionality of your code but also the cleanliness.
+b. The code should be easy to read and follow good coding practices.
+c. Please spend no more than 2-3 hours on this.
 
-Complete your project preferably by close of play Mon 10th or latest by 1pm Tue 11th Feb
-Submit via a source code control tool, such as a GitHub repository.
-Include a README.md describing how to install and run your project.
+3. Submission
+
+a. Complete your project preferably by close of play Mon 10th or latest by 1pm Tue 11th Feb
+b. Submit via a source code control tool, such as a GitHub repository.
+c. Include a README.md describing how to install and run your project.
 
 '''
 
@@ -69,7 +71,7 @@ HomePage: Implements actions specific to the home page, such as verifying text, 
 
 PricingPage: Implements actions specific to the pricing page, such as switching currency.
 
-Test Suite: Initializes the browser, creates instances of the page classes, and runs the tests.
+Test Suite: Initialises the browser, creates instances of the page classes, and runs the tests.
 
 '''
 
